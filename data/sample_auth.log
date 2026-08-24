@@ -1,0 +1,6 @@
+2026-08-24 13:40:12 | AUTH_FAILED | 192.168.1.50 | username=admin
+2026-08-24 13:40:18 | AUTH_FAILED | 192.168.1.50 | username=admin
+2026-08-24 13:40:25 | AUTH_FAILED | 192.168.1.50 | username=admin
+2026-08-24 13:40:31 | AUTH_FAILED | 192.168.1.50 | username=admin
+2026-08-24 13:40:39 | AUTH_FAILED | 192.168.1.50 | username=admin
+2026-08-24 13:40:44 | AUTH_SUCCESS | 192.168.1.50 | username=admin
