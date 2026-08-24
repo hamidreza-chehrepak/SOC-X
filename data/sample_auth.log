@@ -4,3 +4,8 @@
 2026-08-24 13:40:31 | AUTH_FAILED | 192.168.1.50 | username=admin
 2026-08-24 13:40:39 | AUTH_FAILED | 192.168.1.50 | username=admin
 2026-08-24 13:40:44 | AUTH_SUCCESS | 192.168.1.50 | username=admin
+2026-08-24 14:10:01 | AUTH_FAILED | 10.0.0.25 | username=root
+2026-08-24 14:10:05 | AUTH_FAILED | 10.0.0.25 | username=root
+2026-08-24 14:10:09 | AUTH_FAILED | 10.0.0.25 | username=root
+2026-08-24 14:10:13 | AUTH_FAILED | 10.0.0.25 | username=root
+2026-08-24 14:10:17 | AUTH_FAILED | 10.0.0.25 | username=root

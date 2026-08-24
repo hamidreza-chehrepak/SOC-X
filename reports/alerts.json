@@ -1,8 +1,0 @@
-[
-    {
-        "source_ip": "192.168.1.50",
-        "event_type": "Brute Force",
-        "severity": "High",
-        "description": "5 failed login attempts detected"
-    }
-]
